@@ -102,7 +102,7 @@ For details on the implemenation and use of this software please refer to chapte
 
 ## License
 
-This software is under [MIT](https://choosealicense.com/licenses/mit/) License.
+This software is under GNU General Public License v3.0 License.
 
 If you use this software in an academic work, please cite:
 
