@@ -73,11 +73,15 @@ The calibration files are organized as follow:
 ## Usage
 
 1. Open the file `main.m` from `scr` folder and run it.
+
 2. A pop up window will request user inputs:
+
 <p align="center">
   <img src ="images/user input.JPG" />
 </p>
+
 3. The software will calculate the depth based on the input parameters 
+
 4. The results will be shown in image format
 
 <p align="center">
@@ -92,14 +96,14 @@ The calibration files are organized as follow:
   <img src ="images/SGM.jpg" />
 </p>
 
+## Further Reading
 
-
-
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+For details on the implemenattion and used of this software please refer to chapters 1 to 4 from the M.A.Sc. Thesis ["Sparse Stereo Visual Odometry with Local Non-Linear Least-Squares Optimization for Navigation of Autonomous Vehicles"](https://curve.carleton.ca/7270ba62-1fd3-4f1b-a1fa-6031b06585e9)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
+This software is under [MIT](https://choosealicense.com/licenses/mit/) License.
+
+If you use this software in an academic work, please cite:
+
+E. F. Aguilar Calzadillas, "Sparse Stereo Visual Odometry with Local Non-Linear Least-Squares Optimization for Navigation of Autonomous Vehicles", M.A.Sc. Thesis, Depart. of Mech. and Aero. Eng., Carleton University, Ottawa ON, Canada, 2019.
