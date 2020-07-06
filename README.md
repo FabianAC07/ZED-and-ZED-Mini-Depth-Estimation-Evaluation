@@ -61,7 +61,7 @@ The data is organized based on the directory structure shown above, which means:
 * Images are stored in Left and Right folders accordingly to their respective lens
 * Images were captured in raw format (lens distortion included) and rectified from [ZED SDK](https://www.stereolabs.com/developers/release/)
 
-The calibration files are organized as follow:
+The calibration files are organized as follows:
 * `Custom_Calibration_ZED_Mini_SN10027514_FHD_1080.mat`: ZED Mini calibration file @ FHD  
 * `Custom_Calibration_ZED_Mini_SN10027514_HD_720.mat`: ZED Mini calibration file @ HD
 * `Custom_Calibration_ZED_SN21531_FHD_1080.mat`: ZED calibration file @ FHD
