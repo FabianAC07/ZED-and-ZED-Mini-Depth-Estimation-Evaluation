@@ -81,15 +81,15 @@ The calibration files are organized as follow:
 4. The results will be shown in image format
 
 <p align="center">
-  <img src ="images/DD.JPG" />
+  <img src ="images/DD.jpg" />
 </p>
 
 <p align="center">
-  <img src ="images/DLT.JPG" />
+  <img src ="images/DLT.jpg" />
 </p>
 
 <p align="center">
-  <img src ="images/SGM.JPG" />
+  <img src ="images/SGM.jpg" />
 </p>
 
 
