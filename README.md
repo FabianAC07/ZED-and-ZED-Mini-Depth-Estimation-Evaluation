@@ -6,7 +6,7 @@ Tha code has been written and tested on [MATLAB 2019a](https://www.mathworks.com
 * Computer Vision Toolbox
 * Image Processing Toolbox
 
-The software was tested on a laptop `Inter(R) Core(TM) i7-6500U CPU @ 2.50GHz 2.60 GHz` and `12 GB RAM`
+The software was tested on a laptop `Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz 2.60 GHz` and `12 GB RAM`
 
 ## Installation
 
