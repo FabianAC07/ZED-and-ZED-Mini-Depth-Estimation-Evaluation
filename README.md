@@ -98,7 +98,7 @@ The calibration files are organized as follow:
 
 ## Further Reading
 
-For details on the implemenattion and used of this software please refer to chapters 1 to 4 from the M.A.Sc. Thesis ["Sparse Stereo Visual Odometry with Local Non-Linear Least-Squares Optimization for Navigation of Autonomous Vehicles"](https://curve.carleton.ca/7270ba62-1fd3-4f1b-a1fa-6031b06585e9)
+For details on the implemenation and use of this software please refer to chapters 1 to 4 from the M.A.Sc. Thesis ["Sparse Stereo Visual Odometry with Local Non-Linear Least-Squares Optimization for Navigation of Autonomous Vehicles"](https://curve.carleton.ca/7270ba62-1fd3-4f1b-a1fa-6031b06585e9)
 
 ## License
 
