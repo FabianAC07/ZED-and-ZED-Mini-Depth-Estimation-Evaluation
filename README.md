@@ -75,7 +75,21 @@ The calibration files are organized as follow:
 1. Open the file `main.m` from `scr` folder and run it.
 2. A pop up window will request user inputs:
 <p align="center">
-  <img src ="images/user input.png" />
+  <img src ="images/user input.JPG" />
+</p>
+3. The software will calculate the depth based on the input parameters 
+4. The results will be shown in image format
+
+<p align="center">
+  <img src ="images/DD.JPG" />
+</p>
+
+<p align="center">
+  <img src ="images/DLT.JPG" />
+</p>
+
+<p align="center">
+  <img src ="images/SGM.JPG" />
 </p>
 
 
