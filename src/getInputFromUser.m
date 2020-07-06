@@ -52,7 +52,7 @@ promt = {'Stereo Camera - Options ZED or ZED Mini', ...
          'Debug - Options: Yes or No'};
      
 % Default inputs
-definput = {'ZED Mini', 'Custom', 'Outdoor', '25', 'HD', 'Harris', 'No'};
+definput = {'ZED', 'ZED', 'Indoor', '5', 'HD', 'Harris', 'No'};
 
 % Dimensions
 dims = [1 50];
